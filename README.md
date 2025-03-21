@@ -1,0 +1,1 @@
+Creating E-commerce website of furniture using HTML, CSS, JS. It's a complete shopping website, Interactive product pages, Shopping cart functionality, Customer testimonials, Responsive service section, Professional footer, Mobile-friendly design
